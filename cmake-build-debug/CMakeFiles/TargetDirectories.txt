@@ -1,0 +1,3 @@
+C:/Users/student/Git_Arek/cmake-build-debug/CMakeFiles/Git_Arek.dir
+C:/Users/student/Git_Arek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Git_Arek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
